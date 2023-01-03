@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Grammar Police - Transform Your Texts into Stunning Images with OpenAI&apos;s API</title>
-        <meta name="description" content="Welcome to our website, where you can easily transform your texts into beautiful, eye-catching images using OpenAI's advanced API technology. Whether you're a business owner looking to create engaging social media posts or a blogger looking to add some visual flair to your articles, our tool makes it simple and straightforward to turn your words into art." />
+        <title>Grammar Police - Identify and correct errors in your writing</title>
+        <meta name="description" content="Simply upload your text or paste it into our system and let us handle the rest. In just a few seconds, you'll receive a revised version of your text with all of the grammar mistakes corrected." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
         <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
