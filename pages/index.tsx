@@ -49,7 +49,7 @@ export default function Home() {
         <Form setCorrectedText={setCorrectedText} />
 
         <div className={styles.center}>
-          {correctedText && <p>{correctedText}</p>}
+          {correctedText && <p style={{ color: "#1971c2", zIndex: 9 }}>{correctedText}</p>}
         </div>
       </main>
     </>
